@@ -1,0 +1,10 @@
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\bin\Debug\Start.exe.config
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\bin\Debug\Start.exe
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\bin\Debug\Start.pdb
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\obj\Debug\Start.csprojAssemblyReference.cache
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\obj\Debug\Start.exe
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\obj\Debug\Start.pdb
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\bin\Debug\BookLibs.dll
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\bin\Debug\BookLibs.pdb
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\Start\obj\Debug\Start.csproj.CopyComplete
